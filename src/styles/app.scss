@@ -552,7 +552,7 @@ $animationSpeed: 100s;
   text-align: center; /* Align text in the center */
   .pre-loading{
     position: absolute;
-    left: 4vh;
+    left: 5vh;
     top: 52vh;
     @include media-min-md{
       left:6vh;
